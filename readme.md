@@ -4,7 +4,7 @@
 **Docente:** Valderi Leithardt F.0.8
 
 **Horário:** Atendimento alunos presencial 
-- segundas das 14h às 15:30h *(fazer o favor de agendar antecipadamente)*
+- segundas das 14h às 15h *(fazer o favor de agendar antecipadamente)*
 
 **Moodle**
 - [Geral](https://2324moodle.isel.pt/course/view.php?id=7525)

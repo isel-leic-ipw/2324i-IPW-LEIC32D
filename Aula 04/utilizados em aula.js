@@ -1,3 +1,4 @@
+    
 /*
 function funcao1(){
         console.log("Execução  assincrona!")
@@ -63,3 +64,6 @@ function funcao1(){
                         }, 3000)
                     }, 2000)
                 }, 1000)
+
+
+

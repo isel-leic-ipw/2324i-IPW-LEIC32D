@@ -6,6 +6,11 @@
 **Horário:** Atendimento alunos presencial 
 - segundas das 14h às 15h *(fazer o favor de agendar antecipadamente)*
 
+**Horário - Monitores:** Atendimento alunos online 
+- Horário de dúvidas IPW - André Jesus, terças-feiras, das 11h às 12h: https://videoconf-colibri.zoom.us/j/2020260099 *(fazer o favor de agendar antecipadamente)*
+
+- Horário de dúvidas IPW - Nyckollas Brandão, quartas-feiras, das 11h às 12h: https://videoconf-colibri.zoom.us/j/96234742970 *(fazer o favor de agendar antecipadamente)*
+
 **Moodle**
 - [Geral](https://2324moodle.isel.pt/course/view.php?id=7525)
 - [LEIC32D](https://2324moodle.isel.pt/course/view.php?id=6890) 
